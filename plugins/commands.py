@@ -8,7 +8,7 @@ from pyrogram.errors import ChatAdminRequired, FloodWait
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from database.ia_filterdb import Media, get_file_details, unpack_new_file_id
 from database.users_chats_db import db
-from info import ADMINS, TIME, MSG_ALRT, LOG_CHANNEL, PICS, SUPPORT_CHAT_ID
+from info import ADMINS, MSG_ALRT, LOG_CHANNEL, PICS, SUPPORT_CHAT_ID
 from utils import get_settings, get_size, is_subscribed, save_group_settings, temp
 from database.connections_mdb import active_connection
 import re
