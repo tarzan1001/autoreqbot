@@ -29,7 +29,7 @@ async def start(client, message):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         text = script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME)
-           await message.reply_text(text=text),
+        await message.reply_text(text=text),
            reply_markup=reply_markup,
            parse_mode=enums.ParseMode.HTML
         )
