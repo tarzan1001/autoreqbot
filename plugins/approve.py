@@ -21,7 +21,7 @@ async def accept_request(client, r):
     try:
         await client.send_photo(
             r.from_user.id,
-            'https://telegra.ph/file/09f18740163975c96ac34.jpg',
+            'https://telegra.ph/file/5de2a87af196bcd866b7f.jpg',
             f"**𝖧𝖾𝗅𝗅𝗈 {r.from_user.mention} 👻\n\n 𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝖳𝗈 {r.chat.title} 𝖸𝗈𝗎𝗋 𝖱𝖾𝗊𝗎𝖾𝗌𝗍 𝖧𝖺𝗌 𝖡𝖾𝖾𝗇 𝖠𝗉𝗉𝗋𝗈𝗏𝖾𝖽.\n\nSend /start to know more**",
             reply_markup=rm)
 
