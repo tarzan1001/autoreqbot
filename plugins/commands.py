@@ -28,8 +28,8 @@ async def start(client, message):
             InlineKeyboardButton('⤬ 𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐘ᴏᴜʀ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⤬', url=f'http://t.me/{temp.U_NAME}?startchannel=true')           
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
-        await message.reply_message(            
-            text=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
+        text = script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME)
+        await message.reply_text(text=text),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
