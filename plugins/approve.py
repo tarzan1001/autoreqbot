@@ -8,14 +8,15 @@ from pyrogram.errors import UserIsBlocked, PeerIdInvalid
 async def accept_request(client, r):
 
     rm = InlineKeyboardMarkup([[
-        InlineKeyboardButton("👥 𝐆𝐑𝐎𝐔𝐏 - 𝟏", url=f"https://t.me/+FPt__pYntKFmODg1")
-        ],[
-        InlineKeyboardButton("🖥 𝐍𝐄𝐖 𝐎𝐓𝐓 𝐔𝐏𝐃𝐓𝐄𝐒 🖥", url="https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS")
-        ],[
-        InlineKeyboardButton("🖥 𝐍𝐄𝐖 𝐎𝐓𝐓 𝐈𝐍𝐒𝐓𝐆𝐑𝐀𝐌 🖥", url="https://www.instagram.com/new_ott__updates?igsh=MTMxcmhwamF4eGp6eg==")
-        ],[                      
-        InlineKeyboardButton("⭕️ 𝐆𝐄𝐓 𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊𝐒 ⭕️", url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")
-    ]])
+         InlineKeyboardButton('⤬ 𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
+            InlineKeyboardButton('⤬ 𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐘ᴏᴜʀ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⤬', url=f'http://t.me/{temp.U_NAME}?startchannel=true')        
+            ],[
+            InlineKeyboardButton("👥 𝐆𝐑𝐎𝐔𝐏 - 𝟏", url=f"https://t.me/+XzVIX3lhqzAyYTQ1"),
+            ],[
+            InlineKeyboardButton("🖥 𝐍𝐄𝐖 𝐎𝐓𝐓 𝐔𝐏𝐃𝐓𝐄𝐒 🖥", url="https://t.me/+zyn6Ieosz5o4OTVl")
+            ],[            
+            InlineKeyboardButton("⭕️ 𝐆𝐄𝐓 𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊𝐒 ⭕️", url="https://t.me/+XzVIX3lhqzAyYTQ1")
+        ]])
     
     try:
         await client.send_photo(
