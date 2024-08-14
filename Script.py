@@ -3,13 +3,14 @@ class script(object):
 <b>
 𝐻𝑒𝑙𝑙𝑜 👋 {}</b>😍
 
-<b>I'ᴍ <a href=https://t.me/{}>{}</a> 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑪𝒂𝒍𝒍 𝑴𝒆 𝑨𝒔 𝑨𝒄𝒄𝒆𝒑𝒕 𝑱𝒐𝒊𝒏 𝑹𝒆𝒒𝒖𝒆𝒔𝒕𝒔 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄𝒂𝒍𝒍𝒚 𝒗𝟏 🫶</b>
 
-<b>𝑬𝒙𝒄𝒍𝒖𝒔𝒊𝒗𝒆𝒍𝒚 𝑴𝒂𝒅𝒆 𝑻𝒉𝒊𝒔 𝑩𝒐𝒕 𝑭𝒐𝒓 @ARAKAL_THERAVAD_GROUP_01..!! 💫</b>
+<b>I'ᴍ <a href=https://t.me/{}>{}</a> Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ1 🫶</b>
 
-<b>📌 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 : @OTT_ARAKAL_THERAVAD_MOVIESS</b>
+<b>Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ <a href=https://t.me/+Q8PH1M-vZzk2YmM1> 𝐆𝐑𝐎𝐔𝐏 </a>..!! 💫</b>
 
-<b>🍂 𝑶𝒘𝒏𝒆𝒓 : @ARAKAL_THERAVAD_MOVIES_02_bot</b>"""        
+<b>📌 Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/+XzVIX3lhqzAyYTQ1> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a></b>
+
+<b>🍂 Oᴡɴᴇʀ : @tg_tarzan</b>"""        
 
     HELP_TXT = """<b>Hᴇʏ {} 𝖨𝖺𝗆 𝖧𝖺𝗉𝗉𝗒 🖤 𝖳𝗈 𝖧𝖺𝗏𝖾 𝖸𝗈𝗎
     
