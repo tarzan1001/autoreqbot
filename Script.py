@@ -4,13 +4,11 @@ class script(object):
 𝐻𝑒𝑙𝑙𝑜 👋 {}</b>😍
 
 
-<b>I'ᴍ <a href=https://t.me/{}>{}</a> Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ1 🫶</b>
+<b>I am a Auto Approve Bot. I can approve your channel or group join requests instantly. 
 
-<b>Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ <a href=https://t.me/+Q8PH1M-vZzk2YmM1> 𝐆𝐑𝐎𝐔𝐏 </a>..!! 💫</b>
+Steps:  
 
-<b>📌 Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/+XzVIX3lhqzAyYTQ1> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a></b>
-
-<b>🍂 Oᴡɴᴇʀ : @tg_tarzan</b>"""        
+Just add me as an administrator to your group or channel to set me up! </b>"""        
      
     
     STATUS_TXT = """<b> 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
